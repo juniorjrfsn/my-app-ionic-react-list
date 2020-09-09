@@ -1,0 +1,8 @@
+{
+  "name": "my-app-ionic-react-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "008d72fa"
+}
